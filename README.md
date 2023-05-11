@@ -1,0 +1,2 @@
+# cpe-551 
+Abstract—Mushrooms, the fruiting body of fungi, have been eaten by humans for thousands of years. All mushrooms contain protein, fiber, and the powerful antioxidant selenium, but specific types are sought after for specific health benefits. In this project, looking at the various properties of a mushroom, we will predict whether the mushroom is edible or poisonous. We will be using different machine learning algorithms like logistic regression, Decision trees, SVM, Naive-Bayes, Random Forest and consider the one with better accuracy.
